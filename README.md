@@ -1,4 +1,4 @@
-# Proje Başlığı
+# markdown özellikleri
 
 Proje açıklaması burada yer alacak. Projenizin amacı, özellikleri ve kullanılabilirliği hakkında kısa bir bilgi ekleyebilirsiniz.
 
